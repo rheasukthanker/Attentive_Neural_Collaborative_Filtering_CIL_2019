@@ -180,4 +180,4 @@ It will show train and validation scores, and you can interrupt at any point and
 
 
 ### Report 
-<b>Report_CIL2019.pdf<\b> contains the project description and the description of the proposed approach
+<b>Report_CIL2019.pdf</b> contains the project description and the description of the proposed approach
