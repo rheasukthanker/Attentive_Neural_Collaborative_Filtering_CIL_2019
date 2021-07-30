@@ -1,5 +1,6 @@
-# Attentive Neural Collaborative Filtering
-
+# Course Project: Computational Intelligence Lab 2019 ETH Zurich 
+# Attentive Neural Collaborative Filtering 
+## Project Team Members: Clemens Hutter, Rhea Sukthanker, Georgios Vasilakopoulos, Nina Wiedemann
 ## Installation
 using python 3.6 run
 
