@@ -1,0 +1,1 @@
+This package is for all models that are (soley) based on user and movie embedings. (i.e. there is a point in the total computational graph where all information is encoded in a vector for the user and a vector for the movie)
