@@ -179,4 +179,5 @@ python comb_ae.py
 It will show train and validation scores, and you can interrupt at any point and predict on the test data. See flags for possible parameters, most importantly specify --save_path (where to output submission) and --sample_submission_path (where sampleSubmission file is located).
 
 
-
+### Report 
+Report
