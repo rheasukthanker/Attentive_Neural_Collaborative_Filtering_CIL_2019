@@ -1,0 +1,14 @@
+{
+  "type": "embedding",
+  "name": "attention",
+  "params": {
+    "batchnorm": false,
+    "user_specific_embedding_strategy": "add",
+    "image_sum": true,
+    "attention_type": "dim_inner_prod",
+    "lambda_mov_spec": 1,
+    "query_key_scalling": 1,
+    "l2_reg_coefficient": 0,
+    "context_key_matrix": "same"
+  }
+}

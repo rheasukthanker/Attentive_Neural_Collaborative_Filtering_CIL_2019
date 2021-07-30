@@ -1,0 +1,9 @@
+{
+  "type": "embedding",
+  "name": "attention_rating",
+  "params": {
+    "path_to_movie_embeddings": "Weights/movie_embed_ae.npy",
+    "trainable": true,
+    "image_sum": true
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "prediction",
+  "name": "mlp",
+  "params": {
+  "l2_reg":0.0
+  }
+}
